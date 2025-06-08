@@ -19,5 +19,4 @@ to_fun_film = Comedy()
 to_cry_film = Drama()
 
 print(to_fun_film.add_movie('Большой куш'))
-print(to_cry_film.add_movie('Большой куш'))
-
+print(to_cry_film.add_movie('Оружейный барон'))
